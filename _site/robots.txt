@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://heynoranora.github.io/heynoranora/sitemap.xml
+Sitemap: https://heynoranora.github.io/sitemap.xml
