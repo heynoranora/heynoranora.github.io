@@ -1,45 +1,53 @@
 const include = [
   /* --- CSS --- */
 
-  '/assets/css/style.css',
+  '/heynoranora/assets/css/style.css',
 
   /* --- Javascripts --- */
-  '/assets/js/dist/home.min.js',
-  '/assets/js/dist/page.min.js',
-  '/assets/js/dist/post.min.js',
-  '/assets/js/dist/categories.min.js',
-  '/assets/js/data/search.json',
-  '/app.js',
-  '/sw.js',
+  '/heynoranora/assets/js/dist/home.min.js',
+  '/heynoranora/assets/js/dist/page.min.js',
+  '/heynoranora/assets/js/dist/post.min.js',
+  '/heynoranora/assets/js/dist/categories.min.js',
+  '/heynoranora/assets/js/data/search.json',
+  '/heynoranora/app.js',
+  '/heynoranora/sw.js',
 
   /* --- HTML --- */
-  '/index.html',
-  '/404.html',
+  '/heynoranora/index.html',
+  '/heynoranora/404.html',
+  
+    '/categories/',
+  
+    '/tags/',
+  
+    '/archives/',
+  
+    '/about/',
   
 
 
-  /* --- Icons --- */'/assets/img/favicons/favicon.ico',
-  '/assets/img/favicons/apple-icon.png',
-  '/assets/img/favicons/apple-icon-precomposed.png',
-  '/assets/img/favicons/apple-icon-57x57.png',
-  '/assets/img/favicons/apple-icon-60x60.png',
-  '/assets/img/favicons/apple-icon-72x72.png',
-  '/assets/img/favicons/apple-icon-76x76.png',
-  '/assets/img/favicons/apple-icon-114x114.png',
-  '/assets/img/favicons/apple-icon-120x120.png',
-  '/assets/img/favicons/apple-icon-144x144.png',
-  '/assets/img/favicons/apple-icon-152x152.png',
-  '/assets/img/favicons/apple-icon-180x180.png',
-  '/assets/img/favicons/android-icon-192x192.png',
-  '/assets/img/favicons/favicon-32x32.png',
-  '/assets/img/favicons/favicon-96x96.png',
-  '/assets/img/favicons/favicon-16x16.png',
-  '/assets/img/favicons/ms-icon-144x144.png',
-  '/assets/img/favicons/manifest.json',
-  '/assets/img/favicons/browserconfig.xml'
+  /* --- Icons --- */'/heynoranora/assets/img/favicons/favicon.ico',
+  '/heynoranora/assets/img/favicons/apple-icon.png',
+  '/heynoranora/assets/img/favicons/apple-icon-precomposed.png',
+  '/heynoranora/assets/img/favicons/apple-icon-57x57.png',
+  '/heynoranora/assets/img/favicons/apple-icon-60x60.png',
+  '/heynoranora/assets/img/favicons/apple-icon-72x72.png',
+  '/heynoranora/assets/img/favicons/apple-icon-76x76.png',
+  '/heynoranora/assets/img/favicons/apple-icon-114x114.png',
+  '/heynoranora/assets/img/favicons/apple-icon-120x120.png',
+  '/heynoranora/assets/img/favicons/apple-icon-144x144.png',
+  '/heynoranora/assets/img/favicons/apple-icon-152x152.png',
+  '/heynoranora/assets/img/favicons/apple-icon-180x180.png',
+  '/heynoranora/assets/img/favicons/android-icon-192x192.png',
+  '/heynoranora/assets/img/favicons/favicon-32x32.png',
+  '/heynoranora/assets/img/favicons/favicon-96x96.png',
+  '/heynoranora/assets/img/favicons/favicon-16x16.png',
+  '/heynoranora/assets/img/favicons/ms-icon-144x144.png',
+  '/heynoranora/assets/img/favicons/manifest.json',
+  '/heynoranora/assets/img/favicons/browserconfig.xml'
 ];
 
-const exclude = ['/assets/js/data/pageviews.json',
-  '/img.shields.io/'
+const exclude = ['https://','https://img.shields.io',
+  '/assets/js/data/pageviews.json'
 ];
 
