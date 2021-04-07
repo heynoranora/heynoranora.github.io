@@ -2,3 +2,16 @@ language: ruby
 rvm:
   - 2.3
 script: "bundle exec jekyll build"
+
+# blocklist
+branches:
+  except:
+  - legacy
+  - experimental
+
+# safelist
+branches:
+  only:
+  - master
+  - stable
+  - gh-pages
