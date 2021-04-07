@@ -3,7 +3,7 @@ encoding: UTF-8
 
 # Import the theme
 remote_theme: cotes2020/jekyll-theme-chirpy
-#theme: jekyll-theme-chirpy
+theme: jekyll-theme-chirpy
 #repository: https://github.com/cotes2020/jekyll-theme-chirpy
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
