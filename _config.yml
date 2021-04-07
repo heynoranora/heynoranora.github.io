@@ -1,4 +1,5 @@
 # The Site Configuration
+encoding: UTF-8
 
 # Import the theme
 remote_theme: cotes2020/jekyll-theme-chirpy
@@ -16,7 +17,7 @@ timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Nora's Tuts                          # the main title
+title: "Nora's Tuts"                          # the main title
 
 tagline: Cute and Adorable Tutorials   # it will display as the sub-title
 
