@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gemspec
+# gemspec
 
 group :test do
   gem "html-proofer", "~> 3.18"
@@ -17,3 +17,4 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
+gem "jekyll-theme-chirpy"
