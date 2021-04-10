@@ -2,7 +2,7 @@
 title: Website Launch Celebration!!!
 date: 2021-04-09 23:00:00
 categories: [Updates]
-tags: [blog, updates]     # TAG names should always be lowercase
+tags: []     # TAG names should always be lowercase
 published: true
 hidden: false
 pin: false
