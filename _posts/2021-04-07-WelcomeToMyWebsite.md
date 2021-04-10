@@ -20,7 +20,7 @@ No but really, I like making smol easily referenced tutorials for all sorts of t
 
 ![Desktop View](https://i.ibb.co/cxP7T40/Application-Frame-Host-2021-04-10-00-31-37.png)
 
-I also make mecha stuff! I'm a HUUUUUUGE mecha fan-girl so you'll be seeing a lot of robots from me.
+I also make mecha stuff! I'm a HUUUUUUGE mecha fan-girl so you'll be seeing a lot of robots from me too.
 ![Desktop View](https://i.ibb.co/LhwwHTw/gouf256.jpg)
 
 
