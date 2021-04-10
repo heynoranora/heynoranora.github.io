@@ -18,6 +18,8 @@ gem "jekyll-theme-chirpy"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-paginate", "~> 1.1"
+  #gem "jekyll-paginate-v2"
 end
 group :test do
   gem "html-proofer", "~> 3.18"
@@ -34,4 +36,3 @@ end
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem "webrick"
-gem "jekyll-paginate"#, "~> 1.1"
