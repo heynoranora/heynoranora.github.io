@@ -1,6 +1,6 @@
 ---
 title: Website Launch Celebration!!!
-date: 2021-04-09 23:00:00
+date: 2021-04-09 23:00:00 -0400
 categories: [Updates]
 tags: [updates]     # TAG names should always be lowercase
 published: true
