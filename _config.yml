@@ -91,6 +91,9 @@ disqus:
 paginate: 10
 paginate_path: "/legacy/page:num/"
 
+plugins:
+  - jekyll-archives
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:

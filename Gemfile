@@ -19,6 +19,7 @@ gem "jekyll-theme-chirpy"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-paginate", "~> 1.1"
+  gem 'jekyll-archives'
   #gem "jekyll-paginate-v2"
 end
 group :test do
