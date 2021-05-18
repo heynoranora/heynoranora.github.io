@@ -5,7 +5,7 @@ categories: [Tutorials, Rigging]
 tags: [tutorial, rigging, naming]
 published: true
 hidden: false
-pin: true
+pin: false
 ---
 We continue our journey through rigging by learning about how bones should be named.
 
