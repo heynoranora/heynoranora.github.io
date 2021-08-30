@@ -18,13 +18,12 @@ timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: "Nora's Tuts"                          # the main title
+title: "Nora's Site"                          # the main title
 
 tagline: Cute and Adorable Tutorials   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Cute Blender tutorials for 3D modeling,
-  rigging, rendering, shading, and more.
+  I do blender things! As well as cute little tutorials.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://heynoranora.github.io'
