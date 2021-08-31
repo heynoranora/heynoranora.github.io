@@ -9,30 +9,41 @@ pin: true
 ---
 # 3D Model Commissions!
 
-You may contact me via DMs on [Twitter](https://twitter.com/HeyNoraNora) or email me at **hey.nora.nora@gmail.com** to request a commission from me.
+You may contact me via DMs on [Twitter](https://twitter.com/HeyNoraNora) or email me at **hey.nora.nora@gmail.com** to request a commission from me. Payments will be done through Paypal.
 
 ---
 
 Commission Status: **Open**<br>
-Slots Available: **?? / ??**
+Slots Available: **1 / 5**
 
 ---
+
+## Things I do
+
+* Mecha
+* Suggestive content (Revealing clothing, specific body types, etc)
+* Almost Furry (sort-of)
+
+## Things I don't do
+
+* Character designs
+* Very animalistic furries
+* Testing in VR, as I do not own a VR set
+* Painterly or Sketchy texturing--unless I'm directed to an instructor who will teach me
 
 # Pricing
 
 ## For Human Avatars
 
-* Original From-Scratch Body, Face, Hair & Outfit: $800
-* Extra Props: $100
+* Original From-Scratch Body, Face, Hair & Outfit: $800 ~ $1500
 
 ## For Mecha Avatars
 
-* Original From-Scratch: $700
-* Extra Props or Features: $100
+* Original From-Scratch: $600 ~ $1000
 
-## For Low-Poly (PS1 ~ Gamecube styles or unique) Avatars
+## For Low-Poly Avatars, Mascots, or Props
 
-* Original From-Scratch Body: $300 ~ $500
+* Original From-Scratch: $200 ~ $800
 * Vertex Colors instead of Textured (Think FFVII monsters): -$100 off final price.
 * Prices may even be considerably lower depending on the project, do feel free to DM me if you're unsure!
 
@@ -42,7 +53,7 @@ Slots Available: **?? / ??**
 * Want a image/text tutorial for Blender or any other part of my process? Sure: DM me
 * Want your avatar's face to have anime shading via vertex normals editing? I'm just an off-brand [Rukikuri](https://mobile.twitter.com/rukikuri): DM me.
 * Want a custom animated Twitch Overlay to flex on your gamer(derogatory) friends? Why certainly: DM me
-* Want me to frankenstein stuff to other stuff? Depends: DM me
+* Want me to frankenstein stuff to other stuff? Depends, but probably not: DM me anyway
 * Anything else? Just DM me maybe, no harm in asking.
 
 <br>
@@ -79,9 +90,17 @@ Slots Available: **?? / ??**
 * Eternal youth.
 * Breakfast in bed.
 
+## I don't have neough money right now, but I will later. What should I do?
+
+* Wait until you have the money before asking me. If you can't pay, I won't work.
+
+## Why are your prices the way they are?
+
+* Honestly, I value my time and I'm mad at artists who do model commissions for dirt cheap. 150 buckaroos for a custom model is highway robbery and they are devaluing *our* work. If I go any lower my time would be better spent flipping burgers.
+
 ## So what are the *actual* copyrights, ya know?
 
-* My commissions are not created under a work-for-hire agreement, therefore I, Nora, retain copyright to the work. The sale of the model does not include the ownership rights. Clients are granted a license to use, modify, and distribute my work so long as they credit me when asked, @HeyNoraNora, and do not sell it.
+* My clients are granted a license to use, modify, and distribute my work so long as they credit me when asked, @HeyNoraNora, and do not sell it. If you want to own the copyright itself (including selling rights), be upfront and sign a contract, expect a higher price.
 
 ## Do you speak any languages other than English?
 
