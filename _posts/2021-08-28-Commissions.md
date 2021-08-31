@@ -14,7 +14,7 @@ You may contact me via DMs on [Twitter](https://twitter.com/HeyNoraNora) or emai
 ---
 
 Commission Status: **Open**<br>
-Slots Available: **1 / 5**
+Taken Slots: **1 / 5**
 
 ---
 
