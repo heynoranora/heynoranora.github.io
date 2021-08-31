@@ -20,6 +20,7 @@ Slots Available: **1 / 5**
 
 ## Things I do
 
+* Humans, Mascots, etc
 * Mecha
 * Suggestive content (Revealing clothing, specific body types, etc)
 * Almost Furry (sort-of)
@@ -29,13 +30,13 @@ Slots Available: **1 / 5**
 * Character designs
 * Very animalistic furries
 * Testing in VR, as I do not own a VR set
-* Painterly or Sketchy texturing--unless I'm directed to an instructor who will teach me
+* Painterly or Sketchy style texturing--until my skills improve
 
 # Pricing
 
 ## For Human Avatars
 
-* Original From-Scratch Body, Face, Hair & Outfit: $800 ~ $1500
+* Original From-Scratch Body, Face, Hair & Outfit: $600 ~ $1500
 
 ## For Mecha Avatars
 
@@ -77,7 +78,7 @@ Slots Available: **1 / 5**
 ## What will I get when I commission a model from you?
 
 * A rigged 3D Model in fbx format, with corresponding texture files.
-* A VRM model for use in Unity.
+* (If requested) A VRM model for use with whatever uses that file format.
 * The Blender file (.blend) it was made in.
 * Standard Blendshapes for use with VSeeFace, VRChat, etc.
 * (If requested) Dynamic bones for jiggle, hair, and clothing.
@@ -92,11 +93,11 @@ Slots Available: **1 / 5**
 
 ## I don't have neough money right now, but I will later. What should I do?
 
-* Wait until you have the money before asking me. If you can't pay, I won't work.
+* Wait until you have the money before asking me. If you can't pay, I won't work. I don't think I'll be flooded with requests, so there's no rush.
 
 ## So what are the *actual* copyrights, ya know?
 
-* My clients are granted a license to use, modify, and distribute my work so long as they credit me when asked, @HeyNoraNora, and do not sell it. If you want to own the copyright itself (including selling rights), be upfront and sign a contract, expect a higher price.
+* My clients are granted a license to use, modify, and distribute my work so long as they credit me when asked, @HeyNoraNora, and do not sell it. If your company wants to own the copyright itself (including selling rights), be upfront and sign a contract, expect a higher price.
 
 ## Do you speak any languages other than English?
 
