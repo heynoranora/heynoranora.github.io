@@ -66,7 +66,7 @@ Slots Available: **1 / 5**
 * No re-selling under any circumstance, unless explicitely specified and agreed upon.
 * I will send updates at milestones throughout the process, or upon request. But please respect boundaries, I'm only human.
 * Revisions are welcome during each stage of the process, within reason. The earlier it's revised, the bigger changes I can make. No revision requests will be allowed beyond 1 week after final payment.
-* I will follow references as close as I am comfortable with. The results will vary and may not be exactly as expected depending on the references given.
+* I will follow references as close as I am comfortable with. The results will vary and may not be exactly as expected depending on the references given. I will do my best.
 * Once I start the modelling process, I will not accept new references. Gather all the references needed before I begin, thank you.
 * Please be reasonable with your expectations. Results may vary as some things may stretch my capabilities.
 * (Temporary) Turn-around times may vary greatly and I will finish at my own pace. I am new to taking paid commissions and I cannot predict nor guarantee an accurate timeline yet. If you require a rush job, make that clear as early as possible. As of now, expect 4 weeks minimum.
@@ -93,10 +93,6 @@ Slots Available: **1 / 5**
 ## I don't have neough money right now, but I will later. What should I do?
 
 * Wait until you have the money before asking me. If you can't pay, I won't work.
-
-## Why are your prices the way they are?
-
-* Honestly, I value my time and I'm mad at artists who do model commissions for dirt cheap. 150 buckaroos for a custom model is highway robbery and they are devaluing *our* work. If I go any lower my time would be better spent flipping burgers.
 
 ## So what are the *actual* copyrights, ya know?
 
