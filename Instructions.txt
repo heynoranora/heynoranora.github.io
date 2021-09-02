@@ -1,0 +1,24 @@
+How to update website:
+
+  Open Atom
+
+  Open Github Desktop
+
+  Open Windows Powershell, use Windows PowerShell tab
+
+
+To preview locally before publishing
+
+  reach the directory, via
+    cd Documents\GitHub\heynoranora.github.io
+      (if for some reason you're on Ubuntu) cd Documents/GitHub/heynoranora.github.io
+
+    bundle exec jekyll s
+
+    Open a browser and visit to http://localhost:4000
+
+To publish changes
+
+  Push through Github Desktop
+
+  Profit
