@@ -7,8 +7,9 @@ published: true
 hidden: false
 pin: true
 ---
-# 3D Model Commissions!
 
+# 3D Model Commissions!
+![Desktop View](https://pbs.twimg.com/media/E-TeJ8JX0AMPKF9?format=jpg&name=4096x4096)
 You may contact me via DMs on [Twitter](https://twitter.com/HeyNoraNora) or email me at **hey.nora.nora@gmail.com** to request a commission from me. Payments will be done through Paypal.
 
 ---
@@ -82,7 +83,7 @@ Taken Slots: **1 / 5**
 * The Blender file (.blend) it was made in.
 * Standard Blendshapes for use with VSeeFace, VRChat, etc.
 * (If requested) Dynamic bones for jiggle, hair, and clothing.
-* A Rendered image of your posed completed model.
+* Renders of your posed completed model.
 * Usage Rights of the 3D model and all its elements for public and private purposes.
 
 ## What will I NOT get?
@@ -97,7 +98,7 @@ Taken Slots: **1 / 5**
 
 ## So what are the *actual* copyrights, ya know?
 
-* My clients are granted a license to use, modify, and distribute my work so long as they credit me when asked, @HeyNoraNora, and do not sell it. If your company wants to own the copyright itself (including selling rights), be upfront and sign a contract, expect a higher price.
+* My clients are granted a license to use, modify, and distribute my work so long as they credit me when asked and do not sell it. If your company wants to own the copyright itself (including selling rights), be upfront and sign a contract, expect a higher price.
 
 ## Do you speak any languages other than English?
 
@@ -105,15 +106,10 @@ Taken Slots: **1 / 5**
 
 # Testimonials
 
-Don't take it from me, let's hear what my satisfied clients have to say!
+Don't take it from me, let's hear what really really kind people have to say!
 
-  > *cricket sounds*
-
-  > *silence*
-
-  > *traffic noices*
-
-Doesn't that fill you with confidence!
+  - Dreamcaster on twitter [@DR34MC4ST3R](https://twitter.com/DR34MC4ST3R/status/1433539569513910272?s=20)
+  > "You blew this out of the park, the anatomy and topology looks so next level. I originally followed you because Gundam but wow your organic modeling is top notch too! Here's hoping you find a lot of clients for commissions, you really deserve it."
 
 ---
 
