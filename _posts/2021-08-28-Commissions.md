@@ -40,7 +40,7 @@ Taken Slots: **1 / 5**
 
 ## For Mecha Avatars
 
-* Original From-Scratch: $600 ~ $1000
+* Original From-Scratch: $400 ~ $1000
 
 ## For Low-Poly Avatars, Mascots, or Props
 
